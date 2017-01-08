@@ -1,1 +1,13 @@
-Hi
+TED CONFERENCE
+
+
+I keep saying we need a new internet that does not rely on TCP/IP. It is simply not secure. We need to fix the OSI model. The engineers have the answer to create a routable and secure internet. I just need to find the right folks who are qualified.
+
+I work for a consulting company which allows me the ability to be a little more on task by predicting the anonymous behavior of bad actors in my home lab.
+
+As  Peter Rus LION says so well:
+Yet if you are determined to stop attackers and get into the cyber kill chain you need to change your view. So if you are from the ground would have to build an identity and access system how do you deal with authentication, remote access, and protect against vulnerabilities in a rapidly changing environment with Big Data, IOT and compliance requirements as GDPR?
+
+I agree but believe the internet is inherently insecure. We must rebuild the OSI MODEL which allows me the ability to be a little more on task by predicting the anonymous behavior of bad actors in my home lab.
+READY TO CONTRIBUTE??? # Is 13 unlucky?
+#NO
